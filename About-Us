@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<meta name="robots" content="noindex">
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  
+  <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+  <title>Kindle_Knack</title>
+<style id="jsbin-css">
+
+
+
+.kindle {
+  background-image: url(https://i.imgur.com/sV3or9W.jpg);
+  color: white;
+  text-align: center;
+  height: 50px;
+  padding: 50px;
+  
+}
+div {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  height:50px;
+}
+h2 {
+  font-size: 50px;
+  color: #424949 ;
+  margin-top: 0px;
+  margin-botom: 0px;
+}
+p {
+  font-size: 30px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-family: cursive;
+  color: ;
+}
+
+main {
+  border: 3px solid red;
+}
+
+</style>
+</head>
+<body>
+  <header class="kindle"><h1>KINDLE_KNACK</h1></header> 
+  <header><h1>About the family</h1></header>
+  <main>
+    <p>
+      <hr>
+  <table>
+    <tr>
+      <td>
+        <center><img width="70%" src="https://i.imgur.com/moRWF41.png" width="50%"></center>
+      <center><h2 >Astronomy</h2></center>
+      <p>
+        It's for those who somehow wants to immerse themselves in all that grandeur
+        of space and who wants to be gripped by the splendor of the universe. If yes,
+        here is an immense opportunity to have a space walk. We have got SPACE for 
+        everyone. Kindly do register.
+      </p>
+      </td>
+    </tr>
+    </table>
+    </hr>
+  <hr>
+  <table>
+    <tr>
+      <td>
+        <center><img width="70%" src="https://i.imgur.com/g6kaOuW.jpg"></center>
+      <center><h2>MUSIC</h2></center>
+      <p>
+        Are you a music junkie with tunes constantly playing in your head? Looking
+        for an opportunity to get better and showcase your hidden talent? KINDLE is 
+        here to give you the opportunity to collaborate with like-minded people, 
+        create and promote your own music videos, and also perform in various platforms!
+        Join us and get prepared to indulge in the divine heartfelt emotion of melody.
+      </p>
+      </td>
+    </tr>
+  </table>
+  </hr>
+<hr>
+  <table >
+    <tr>
+      <center><img width="70%" src="https://i.imgur.com/s3QQDNH.jpg"></center>
+      <center><h2>Graphic Designing</h2></center>
+      <p>
+       Are you familiar with the process of visual communication or want to develop a new 
+        skill? KINDLE is here to help you create visual concepts using software or by hand, 
+        to communicate ideas that inspire, inform and captivate the viewers. Please do 
+        register to participate in our workshops and quizzes to share and showcase your 
+        knowledge in this field and also be a part of other fun activities. 
+      </p>
+    </tr>
+  </table>
+</hr>
+<hr>
+  <table >
+    <tr>
+      <center><img width="70%" src="https://i.imgur.com/SbRYLEC.jpg"></center>
+      <center><h2>Photography</h2></center>
+      <p>
+        Walking the streets with camera in hand is akin to being on a treasure hunt as a child. 
+        Photographers use their technical expertise creativity and composition skills to produce 
+        and preserve images that tell a story or record an event. <strong>Are you a story teller?</strong>
+      </p>
+    </tr>
+  </table>
+</hr>
+<hr>
+  <table >
+    <tr>
+      <center><img width="70%" src="https://i.imgur.com/5PZsPhf.jpg"></center>
+      <center><h2>EDITING</h2></center>
+      <p>
+        <strong>Do you want to show case your editorial skills?</strong>Do you think you can turn a
+        lifeless picture to a picture full of life and passion. If yes then this is the perfect place 
+        for you to explore the vast multitude of opportunities available in this arena and get a chance 
+        to showcase your talent like never before.
+      </p>
+    </tr>
+  </table>
+</hr>
+<hr>
+   <table >
+    <tr>
+      <center><img width="70%" src="https://i.imgur.com/7k030Vo.jpg"></center>
+      <center><h2>CODING</h2></center>
+      <p>
+        <strong>Do you love coding and want to assess yourself?</strong>Register here in KINDLE and participate
+        in various competitions, quizzes and other exciting projects and further develop your skills!
+      </p>
+    </tr>
+  </table>
+</hr>
+<hr>
+  <table >
+    <tr>
+      <center><img width="70%" src="https://i.imgur.com/cAA5UvQ.jpg"></center>
+      <center><h2>BLOGGING</h2></center>
+      <p>
+        Are you interested in technical projects and want to share your knowledge with others? KINDLE is giving you 
+        the  opportunity to show off your knowledge and writing skills. Get a chance to learn about the latest 
+        technology and keep people around you updated. 
+      </p>
+    </tr>
+  </table>
+</hr>
+<hr>
+  <table >
+    <tr>
+      <center><img width="70%" src="https://i.imgur.com/Tf3h32x.png"></center>
+      <center><h2>DEBATE</h2></center>
+      <p>
+       Want to show off your general knowledge and oratory skills? Do you think you are shy and need to develop skills 
+        for public interaction? Register here to be a part of our debate club in KINDLE. This will not only enhance your 
+        oratory skills but also give you immense knowledge on politics, human rights, history, scientific policy,etc.
+      </p>
+    </tr>
+  </table>
+</hr>
+<hr>
+  <table >
+    <tr>
+      <center><img width="70%" src="https://i.imgur.com/k8s5bYk.jpg"></center>
+      <center><h2>ACTING</h2></center>
+      <p>
+        Want to make others aware about the hidden artist inside you? We are going to give you online opportunities for 
+        workshops on theatre and stage acting. Register here at KINDLE and get the chance to build the inner you!
+      </p>
+    </tr>
+  </table>
+</hr>
+<hr>
+  <table >
+    <tr>
+      <center><img width="70%" src="https://i.imgur.com/gmYyw1Z.jpg"></center>
+      <center><h2>MODELING</h2></center>
+      <p>
+      Want to enhance ur skills on modelling? Watched fashion models??? We'll help you to learn and to give you are best shot.
+        Just register on KINDLE and get a chance to show up to modelling skills inside you.
+      </p>
+    </tr>
+  </table>
+</hr>
+<hr>
+  <table >
+    <tr>
+      <center><img width="70%" src="https://i.imgur.com/SWe9qcU.jpg"></center>
+      <center><h2>ART</h2></center>
+      <p>
+        Are you a painting enthusiast who dreams of painting all the time? Now it's time to paint the canvas of your life with the
+        bright colors of your dreams. We, at KINDLE give you plethora of opportunities to flaunt your painting skills and to discover 
+        a whole new range of art styles !!
+      </p>
+    </tr>
+  </table>
+</hr>
+<hr>
+  <table >
+    <tr>
+      <center><img width="70%" src="https://i.imgur.com/bxjhU2c.jpg"></center>
+      <center><h2>DANCE</h2></center>
+      <p>
+      Are you among those exuberant folks whose feet tune with every beat of music? Or one of those who calm their souls with pacifying moves? 
+        Whatever be the case, we at KINDLE, celebrate this crazy love for dance and provide you platform to parade your gorgeous moves.
+        </p>
+    </tr>
+  </table>
+</hr>
+<hr>
+  <table >
+    <tr>
+      <center><img width="70%" src="https://i.imgur.com/Z2snkOE.jpg"></center>
+      <center><h2>Digital Marketing</h2></center>
+      <p>
+        Do you want to utilize your leisure time and opportunities available online to do something constructive? Confused about where to start from? 
+        We are here to help you learn more about digital marketing and public relations management. Get ready to effectively communicate with and 
+        captivate the audience with your ideas and skills.
+      </p>
+    </tr>
+  </table>
+</hr>
+  </p>
+  </main>
+</body>
+</html>
